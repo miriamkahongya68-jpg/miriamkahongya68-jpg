@@ -1,16 +1,20 @@
-## Hi there 👋
+Salut, moi c'est avira Kahongya Miriam 👋
 
-<!--
-**miriamkahongya68-jpg/miriamkahongya68-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎯 Mission: construire des apps scalables et faciles à maintenir.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Basé à BUTEMBO | 🔗 Lien perso: https://UAC online.dev
+
+✉️ Contact: [miriamkahongya@gmail.com]
+🌐 Site: https://UAC.dev
+🛠️ Compétences: JavaScript, TypeScript, React, Next.js, Node.js, Python, Django, Docker
+🧰 Outils: Git, GitHub Actions, PostgreSQL, Redis
+🚀 Projets notables:
+Project A — description et lien: https://github.com/projet1/project-a
+Project B — description et lien: https://github.com/projet2/project-b
+Project C — description et lien: https://github.com/projet3/project-c
+📈 Statistiques GitHub:
+GitHub stats
+Top Langs
+🧭 Actuellement en apprentissage: [Next.js 14 / Rust / AI générative] (adapter selon vos centres d’intérêt)
+🤝 Ouvert à: opportunités, collaborations open source, mentoring
